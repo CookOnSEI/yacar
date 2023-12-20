@@ -1,1 +1,8 @@
-[]
+type Account = {
+  // The address of the wallet or smart contract
+  id: "sei1880yzrk7qpgt8lzaaflkqrrw37ck7hkh6g042ad3akzrwcsljv9qm4alfe";
+  // The entity which created or controls `id`
+  entity: "sei1ejsvysf894tvrwwwj8dltawjdj5ujfjuvscpl2";
+  // A short descriptive label of `id`
+  label: "CookOnSEI";
+};
